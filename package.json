@@ -2,7 +2,7 @@
   "name": "do-dev",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://doDev-IITP.github.io/do-dev",
+  "homepage": "https://doDev-IITP.github.io",
   "dependencies": {
     "@types/react": "16.4.16",
     "bootstrap": "4.1.3",
